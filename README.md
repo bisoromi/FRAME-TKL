@@ -9,3 +9,4 @@
 | -----------             | -----------                           | ----------- |
 | Threaded rod for feet | https://www.mcmaster.com/93805A256/ | Length is determined by riser thickness |
 | Bumpons               | 3M SJ5302                                  | Can find on Amazon |
+| Cone feet               | https://kbdfans.com/products/anodized-cnc-aluminum-feet-1pair |  |

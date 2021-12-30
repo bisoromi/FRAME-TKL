@@ -1,17 +1,42 @@
-# FRAME-TKL
 
+<br/>
 
-**DISCLAIMER: USE THESE FILES AT YOUR OWN RISK.**
+<p style="text-align: center;font-size:30px"><strong>The Anti-custom Custom Keyboard.</strong></p>
+<p style="text-align: center;font-size:15px"><strong>**DISCLAIMER: USE THESE FILES AT YOUR OWN RISK.**</strong></p>
+<p style="text-align: center;font-size:15px"><strong>THIS IS A WORK IN PROGRESS. A PROTOTYPE HAS NOT BEEN MADE AS OF DECEMBER 2021. </strong></p>
 
-THIS IS A WORK IN PROGRESS. A PROTOTYPE HAS NOT BEEN MADE AS OF OCTOBER 7TH, 2021. 
+<br/>
+<br/>
 
-<a target="_blank" rel="noopener noreferrer" href="https://t.co/FbSpVSlEBP?amp=1"><img src="https://cdn.discordapp.com/attachments/518289321950707713/888167812315615302/unknown.png"></img></a>
+# Specifications
+<ul>
+    <li>17mm front height</li>
+    <li>7.8mm bezel height</li>
+    <li>10mm bezel width</li>
+    <li>0° angle, uses cone feet</li>
+    <li>Integrated 1.5mm plate</li>
+    <li>Open bottom design</li>
+</ul>
 
+<br/>
+<br/>
+
+# Preview
+<a target="_blank" rel="noopener noreferrer" href="https://t.co/FbSpVSlEBP"><img src="https://cdn.discordapp.com/attachments/518289321950707713/926210333788475453/unknown.png"></img></a>
+<p style="text-align: center;font-size:12px"><i>Click image above to open Fusion preview</i></p>
+
+<br/>
+<br/>
 
 # Hardware
+| Item                      | Description                                                   | Notes       |
+| -----------               | -----------                                                   | ----------- |
+| Threaded rod for feet     | https://www.mcmaster.com/93805A256/                           | Length is determined by riser thickness, 10mm for no riser |
+| Bumpons                   | 3M SJ5302                                                     | 7.9mm diameter bumpons. Can find on Amazon |
+| Cone feet                 | https://kbdfans.com/products/anodized-cnc-aluminum-feet-1pair | Designed for 22mm diameter cone feet |
 
-| Item                  | Description                           | Notes       |
-| -----------             | -----------                           | ----------- |
-| Threaded rod for feet | https://www.mcmaster.com/93805A256/ | Length is determined by riser thickness |
-| Bumpons               | 3M SJ5302                                  | Can find on Amazon |
-| Cone feet               | https://kbdfans.com/products/anodized-cnc-aluminum-feet-1pair | Sized for 22mm diameter cone feet |
+<br/>
+<br/>
+
+# Prototype
+Will update this section when prototype is received.

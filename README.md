@@ -1,6 +1,9 @@
 # FRAME-TKL
 
-WORK IN PROGRESS.
+
+**DISCLAIMER: USE THESE FILES AT YOUR OWN RISK.**
+
+THIS IS A WORK IN PROGRESS. A PROTOTYPE HAS NOT BEEN MADE AS OF OCTOBER 7TH, 2021. 
 
 <a target="_blank" rel="noopener noreferrer" href="https://t.co/FbSpVSlEBP?amp=1"><img src="https://cdn.discordapp.com/attachments/518289321950707713/888167812315615302/unknown.png"></img></a>
 

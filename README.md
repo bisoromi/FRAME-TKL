@@ -11,10 +11,10 @@
 
 # Specifications
 <ul>
-    <li>17mm front height</li>
+    <li>17.5mm front height</li>
     <li>7.8mm bezel height</li>
     <li>10mm bezel width</li>
-    <li>4.5° angle w/ cone feet</li>
+    <li>4.5° angle w/ cone feet (22mm diameter)</li>
     <li>Integrated 1.5mm half plate</li>
     <li>Open bottom design</li>
 </ul>
